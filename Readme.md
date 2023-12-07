@@ -1,0 +1,1 @@
+Esses são exemplos básicos para ilustrar a sintaxe e o uso de expressões lambda em Java. Expressões lambda são frequentemente utilizadas em conjunto com interfaces funcionais para criar códigos mais concisos e legíveis.
