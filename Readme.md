@@ -1,4 +1,4 @@
-## Exemplos de Lambda em Java
+## Exemplos de expressões Lambda em Java
 
 Este repositório contém exemplos simples de expressões lambda em Java, destacando sua sintaxe e uso em diferentes cenários. Expressões lambda oferecem uma maneira concisa de expressar instâncias de interfaces de método único (interfaces funcionais). Os exemplos abrangem operações básicas, como adição, verificação de números pares e impressão de mensagens.
 
